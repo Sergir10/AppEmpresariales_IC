@@ -10,7 +10,7 @@ describe('appempic', function () {
   });
 
   it('Apellido debe ser Giraldo', function () {
-    appempic.getLastName().should.equal('Aristizabal');
+    appempic.getLastName().should.equal('Giraldo');
   });
 
 });
